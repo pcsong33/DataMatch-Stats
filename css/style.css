@@ -1,0 +1,88 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f5f2f2;
+    color: #403e3e;
+}
+
+.content {
+    width: 80%;
+    margin-top: 16%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.date{
+
+}
+
+h3 {
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+    font-size: 2.8em;
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    font-size: 2.0em;
+    <p style="text-align:center">Center this text!</p>
+    margin-bottom: 1em;
+    font-weight: 600;
+}
+p {
+    font-size: 1.0em;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 2.0em;
+    font-weight: 600;
+
+}
+
+.icon {
+    font-size: 2em;
+    margin-right: 1em;
+    margin-top: -0.3em;
+    display: inline-block;
+
+}
+
+.bio {
+    margin-top: 1em;
+    padding-left: 2em;
+}
+
+.colors {
+    margin-top: 1em;
+    padding-left: 2em;
+}
+
+.icon a {
+    color: #9192e3;
+}
+
+.icon a:hover {
+    color: #7071b3;
+    text-decoration: none;
+}
+
+#profile-img {
+    width: 100%;
+    border-radius: 100%;
+    max-width: 300px;
+    margin: auto;
+}
+
+a {
+    color: #898ad9;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #7071b3;
+}
